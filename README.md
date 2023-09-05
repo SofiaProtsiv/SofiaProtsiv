@@ -9,7 +9,6 @@
  - 🤓 Passionate about teaching and mentoring individuals who aspire to be front-end developers. I take active part in the development of educational material and team projects for students. 
  - 👩🏼‍💻 As a developer I code on my own, deliver new functionality in short terms, do fast bugsfix and support of the old applications part or refactoring it. 
  - 📚 I earned a bachelor's degree in Cybersecurity and am currently continuing my development and pursuing a master's degree in Computer Science<br>
- - 🚀 In the future, I dream of becoming a product manager
 
 🇺🇦 Ukrainian - native<br>
 🇬🇧 English - upper-intermediate
